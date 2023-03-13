@@ -52,5 +52,5 @@ jobs:
           packageName: com.raywenderlich.android.rwquotes
           releaseFile: app-release-unsigned-signed.apk
           track: internal
-          userFraction: 0.50
+#          userFraction: 0.50
           mappingFile: mapping.txt
